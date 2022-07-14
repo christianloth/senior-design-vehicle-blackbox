@@ -1,0 +1,2 @@
+Deleted DashboardSidebar.js
+Deleted DashboardNavbar.js

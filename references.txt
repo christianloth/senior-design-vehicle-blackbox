@@ -1,0 +1,4 @@
+Front End: 
+  - Authentication: https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications
+  - React Template: https://github.com/minimal-ui-kit/material-kit-react.git
+

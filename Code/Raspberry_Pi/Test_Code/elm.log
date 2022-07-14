@@ -1,0 +1,98 @@
+2022-03-17 16:47:44,477  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on Windows serial COM port "COM3".
+
+2022-03-17 16:47:44,477  root       connect_serial CRITICAL Error while opening serial COM 'COM3':
+could not open port 'COM3': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:47:44,477  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:47:52,577  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM2".
+
+2022-03-17 16:47:52,587  root       connect_serial CRITICAL Error while opening serial COM 'COM2':
+could not open port 'COM2': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:47:52,598  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:47:56,274  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM1".
+
+2022-03-17 16:47:56,274  root       connect_serial CRITICAL Error while opening serial COM 'COM1':
+could not open port 'COM1': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:47:56,274  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:48:37,107  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM4".
+
+2022-03-17 16:48:37,117  root       connect_serial CRITICAL Error while opening serial COM 'COM4':
+could not open port 'COM4': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:48:37,117  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:51:58,828  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM4".
+
+2022-03-17 16:51:58,838  root       connect_serial CRITICAL Error while opening serial COM 'COM4':
+could not open port 'COM4': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:51:58,838  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:53:00,290  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM4".
+
+2022-03-17 16:53:00,290  root       connect_serial CRITICAL Error while opening serial COM 'COM4':
+could not open port 'COM4': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:53:00,290  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:53:04,283  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM".
+
+2022-03-17 16:53:04,293  root       connect_serial CRITICAL Error while opening serial COM 'COM':
+could not open port 'COM': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:53:04,293  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:53:13,448  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM#".
+
+2022-03-17 16:53:13,458  root       connect_serial CRITICAL Error while opening serial COM 'COM#':
+could not open port 'COM#': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:53:13,458  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:53:20,006  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "1".
+
+2022-03-17 16:53:20,016  root       connect_serial CRITICAL Error while opening serial COM '1':
+could not open port '1': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:53:20,016  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:53:23,929  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "0".
+
+2022-03-17 16:53:23,939  root       connect_serial CRITICAL Error while opening serial COM '0':
+could not open port '0': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:53:23,939  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:55:01,200  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM#".
+
+2022-03-17 16:55:01,210  root       connect_serial CRITICAL Error while opening serial COM 'COM#':
+could not open port 'COM#': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:55:01,210  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:58:36,004  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM#".
+
+2022-03-17 16:58:36,014  root       connect_serial CRITICAL Error while opening serial COM 'COM#':
+could not open port 'COM#': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:58:36,014  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 16:58:39,809  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM2".
+
+2022-03-17 16:58:39,809  root       connect_serial CRITICAL Error while opening serial COM 'COM2':
+could not open port 'COM2': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2022-03-17 16:58:39,819  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 17:18:50,936  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on serial COM port "COM1".
+
+2022-03-17 17:19:39,250  root       terminate  DEBUG    Start termination procedure.
+2022-03-17 17:19:40,367  root       terminate  DEBUG    Cannot close file descriptors.
+2022-03-17 17:19:40,367  root       terminate  DEBUG    Terminated.
